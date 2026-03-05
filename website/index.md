@@ -1,6 +1,6 @@
 ---
-title: PrestaShop Website Vorstellung
-nav_order: 2
+title: PrestaShop CMS
+nav_order: 3
 ---
 # Willkommen auf der Website PrestaShop
 
