@@ -15,7 +15,7 @@ nav_order: 2
 4. Bei den ersten Punkt General, bei den Owner/Besitzer. Wählst du dich selbst.
 ![Choose an owner](./assets/images/owner.png)
 
-5. Beim namen des Repository musst du deinen user/Benutzer Namen von GitHub eintragen. Genau so = <user>.github.io
+5. Beim namen des Repository musst du deinen user/Benutzer Namen von GitHub eintragen. Genau so = -user-.github.io
 ![Choose repository name](./assets/images/name.png)
 
 6. Bei den zweiten Punkt Configuration/Konfiguration wähle Public 
@@ -30,4 +30,4 @@ nav_order: 2
 10. Ziemlich in der Mitte ist der Reiter Pages zu finden. Unter der Kategorie Code and automation.
 ![Choose Pages](./assets/images/pages.png)
 
-11. Jetzt kannst du deine Seite besuchen indem du <user>.github.io in den Browser eingibst.
+11. Jetzt kannst du deine Seite besuchen indem du -user-.github.io in den Browser eingibst.
