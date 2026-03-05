@@ -24,4 +24,8 @@ nav_order: 2
 7. Jetzt musst du nur mehr Add README auf On schalten. Wenn du das nicht machts ist es kein Problem das kann man nachher wenn man das Repository clont dann selber erstellen.
 8. Jetzt klicke ganz unten auf Create repository/Erstelle Repository
 
+9. Unter deinem Repository Namen ist eine Leiste wo ganz rechts davon Settings steht.
+![Choose Settings](./assets/images/settings.png)
 
+10. Ziemlich in der Mitte ist der Reiter Pages zu finden. Unter der Kategorie Code and automation.
+![Choose Pages](./assets/images/pages.png) 
