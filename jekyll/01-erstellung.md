@@ -73,15 +73,18 @@ Neue Zeile = am ende des Satze zwei Leerzeichen machen und dann ENTER
 
 ### 6. Code
 - Inline
+```
 Das ist `inline code` – gut für Befehle oder Dateinamen.
-  - Dies macht man mit Backticks nur eines davon, hinten und vorne von dem Wort was man möchte.
+```
 
 - Code-Block mit Syntax-Highlighting
+````
 ```bash
   git add .
   git commit -m "Initial commit"
   git push origin main
 ```
+````
 
 ### 8. Horizontale Linie
 ```
