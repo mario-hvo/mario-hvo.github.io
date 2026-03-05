@@ -86,6 +86,15 @@ Das ist `inline code` – gut für Befehle oder Dateinamen.
 ```
 ````
 
+- Beispiel
+
+```python
+  print("Hello World")
+  for i in range(5):
+    print(i)
+```
+
+
 ### 8. Horizontale Linie
 ```
 ---
