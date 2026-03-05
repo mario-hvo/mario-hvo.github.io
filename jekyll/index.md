@@ -28,4 +28,6 @@ nav_order: 2
 ![Choose Settings](./assets/images/settings.png)
 
 10. Ziemlich in der Mitte ist der Reiter Pages zu finden. Unter der Kategorie Code and automation.
-![Choose Pages](./assets/images/pages.png) 
+![Choose Pages](./assets/images/pages.png)
+
+11. Jetzt kannst du deine Seite besuchen indem du <user>.github.io in den Browser eingibst.
