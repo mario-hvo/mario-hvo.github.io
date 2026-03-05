@@ -18,10 +18,10 @@ Sie liegt immer direkt im Root deines Repositories (nicht in einem Unterordner).
 4. Commit & Push → GitHub Pages baut automatisch neu (kann 1–10 Minuten dauern).
 
 ### Minimal-Beispiel für Just the Docs
-remote_theme: just-the-docs/just-the-docs
-title: Meine Bulme Web-Doku
-description: Grundlagen Webentwicklung – Bulme Projekt
-search_enabled: true             # true = Suchfeld oben aktiv, false = aus
+remote_theme: just-the-docs/just-the-docs  
+title: Meine Bulme Web-Doku  
+description: Grundlagen Webentwicklung – Bulme Projekt  
+search_enabled: true             # true = Suchfeld oben aktiv, false = aus  
 search.button: true              # Floating-Such-Button unten rechts
 
 
