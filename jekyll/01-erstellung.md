@@ -39,11 +39,11 @@ Dateiendung: meist `.md` oder `.markdown`
 ### 3. Listen
 - Ungeordnete Listen
 ```
-- Erster Punkt
-- Zweiter Punkt
-  - Unterpunkt (4 Leerzeichen oder Tab einrücken)
-* Auch mit Stern möglich
-+ Oder mit Plus
+  - Erster Punkt
+  - Zweiter Punkt
+    - Unterpunkt (4 Leerzeichen oder Tab einrücken)
+  * Auch mit Stern möglich
+  + Oder mit Plus
 ```
 
 - Geordnete Listen
@@ -73,11 +73,13 @@ Dateiendung: meist `.md` oder `.markdown`
 ### 6. Code
 - Inline
 Das ist `inline code` – gut für Befehle oder Dateinamen.
+
 - Code-Block mit Syntax-Highlighting
 ```bash
-git add .
-git commit -m "Initial commit"
-git push origin main
+  git add .
+  git commit -m "Initial commit"
+  git push origin main
+```
 
 ### 8. Horizontale Linie
 ```
