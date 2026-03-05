@@ -39,19 +39,19 @@ Dateiendung: meist `.md` oder `.markdown`
 ### 3. Listen
 - Ungeordnete Listen
 ```
-  - Erster Punkt
-  - Zweiter Punkt
-    - Unterpunkt (4 Leerzeichen oder Tab einrücken)
-  * Auch mit Stern möglich
-  + Oder mit Plus
+  -Erster Punkt
+  -Zweiter Punkt
+    -Unterpunkt (4 Leerzeichen oder Tab einrücken)
+  *Auch mit Stern möglich
+  +Oder mit Plus
 ```
 
 - Geordnete Listen
 ```
-  1. Erster Punkt
-  2. Zweiter Punkt
-     1. Unterpunkt
-  3. Dritter Punkt
+  1.Erster Punkt
+  2.Zweiter Punkt
+     1.Unterpunkt
+  3.Dritter Punkt
 ```
 
 ### 4. Links
