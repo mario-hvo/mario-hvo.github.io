@@ -48,10 +48,10 @@ Dateiendung: meist `.md` oder `.markdown`
 
 - Geordnete Listen
 ```
-1. Erster Punkt
-2. Zweiter Punkt
-   1. Unterpunkt
-3. Dritter Punkt
+  1. Erster Punkt
+  2. Zweiter Punkt
+     1. Unterpunkt
+  3. Dritter Punkt
 ```
 
 ### 4. Links
@@ -73,6 +73,7 @@ Dateiendung: meist `.md` oder `.markdown`
 ### 6. Code
 - Inline
 Das ist `inline code` – gut für Befehle oder Dateinamen.
+  - Dies macht man mit Backticks nur eines davon, hinten und vorne von dem Wort was man möchte.
 
 - Code-Block mit Syntax-Highlighting
 ```bash
