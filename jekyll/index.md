@@ -22,3 +22,6 @@ nav_order: 2
 ![Choose Public](./assets/images/configuration.png)
 
 7. Jetzt musst du nur mehr Add README auf On schalten. Wenn du das nicht machts ist es kein Problem das kann man nachher wenn man das Repository clont dann selber erstellen.
+8. Jetzt klicke ganz unten auf Create repository/Erstelle Repository
+
+
