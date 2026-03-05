@@ -9,4 +9,4 @@ nav_order: 2
 1. Melde dich in GitHub an.
 2. Gehe auf Repositorys, links bei dem Menü mit dem 3 Strichen
 3. Dann rechts ist ein grüner Knopf mit new respositoy/neues Repository
-![Bild](assets/new_repo.jpg){: .w-50 .float-right .ml-4}
+![Bild](assets/images/new_repo.jpg){: .w-50 .float-right .ml-4}
