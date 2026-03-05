@@ -1,5 +1,5 @@
 ---
-title: Wie Jekyll funkoniert
+title: Jekyll static site generator
 nav_order: 2
 ---
 # Jekyll installieren ber GitHub
