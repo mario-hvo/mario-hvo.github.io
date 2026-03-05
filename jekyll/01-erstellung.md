@@ -34,6 +34,7 @@ Dateiendung: meist `.md` oder `.markdown`
 *kursiv*    oder     _kursiv_
 ~durchgestrichen~~
 **fett und _kursiv_ kombiniert**
+Neue Zeile = am ende des Satze zwei Leerzeichen machen und dann ENTER
 ```
 
 ### 3. Listen (Leerzeichen nach -+*)
