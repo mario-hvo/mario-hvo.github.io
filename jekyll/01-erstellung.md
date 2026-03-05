@@ -36,7 +36,7 @@ Dateiendung: meist `.md` oder `.markdown`
 **fett und _kursiv_ kombiniert**
 ```
 
-### 3. Listen
+### 3. Listen (Leerzeichen nach -+*)
 - Ungeordnete Listen
 ```
   -Erster Punkt
