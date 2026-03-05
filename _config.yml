@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
 title: Mario Vogrin V-technics
 description: Super Mario's Technik Seite
-color_scheme: auto
-#search_enabled: false
+# color_scheme: auto
+search_enabled: false
