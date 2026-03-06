@@ -71,6 +71,27 @@ Neue Zeile = am ende des Satze zwei Leerzeichen machen und dann ENTER
 ![Lokales Bild](./assets/images/screenshot.png)
 ```
 
+- Wenn Sie Github Pages + Jekyll + Kramdown + Just the Docs nutzen.
+  - Kramdown unterstützt Attribute Lists: {: ... } direkt hinter dem Bild-Syntax.
+- Bild größe ändern.
+```
+  ![ALT](./bild.jpg){:width="400" } => Breite genau 400px
+  ![ALT](./bild.jpg){:height="300" } => Höhe genau 400px
+  ![ALT](./bild.jpg){:width="50%" height="auto" } => 50% der Container Breite
+```
+
+- Position / Ausrichtung
+```
+  ![ALT](./bild.jpg){: .mx-auto .d-block } => Bild horizontal mittig
+  ![ALT](./bild.jpg){: .float-right .ml-4 } => Bild fließt rechts, Text links drumherum
+  ![ALT](./bild.jpg){: .float-left .mr-4 } => Bild fließt links, Text rechts drumherum
+  ![ALT](./bild.jpg){: .ml-3 .mr-3 .mt-2 .mb-2 } => Margin left/right/top/bottom
+  ![ALT](./bild.jpg){: .shadow .shadow-lg } => Leichter / starker Schatten
+```
+- Weitere nützliche Attribute
+  - {: .rounded} => abgerundete Ecken
+  - {: .border} => dünner Rahmen
+
 ### 6. Code
 - Inline
 ```
