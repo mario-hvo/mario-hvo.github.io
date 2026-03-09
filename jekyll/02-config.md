@@ -47,10 +47,11 @@ search.button: true              # Floating-Such-Button unten rechts
 
 ### Beliebte remote_themes (Stand März 2026 – alle GitHub Pages kompatibel)
 
-- just-the-docs/just-the-docs               → Dein aktuelles Theme, sehr gut für Doku
+- just-the-docs/just-the-docs               → Sehr gut für Doku
 - cotes2020/jekyll-theme-chirpy             → Blog-ähnlich, mit Tags & Profil
 - mmistakes/minimal-mistakes                → Sehr flexibel, aber mehr Konfig
 - vaibhavvikas/jekyll-theme-minimalistic    → Sehr schlank, mit Sidebar
+- Read the Docs                             → Auch sehr gut für Doku
 
 Beispiel-Wechsel:  
 `remote_theme: cotes2020/jekyll-theme-chirpy`
